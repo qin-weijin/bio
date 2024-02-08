@@ -1,0 +1,18 @@
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+description: 本人正在求职（前端开发），希望有机会能够加入你们。
+show_downloads: true
+theme: jekyll-theme-cayman
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
