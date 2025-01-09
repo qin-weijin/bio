@@ -12,22 +12,10 @@
 
 ## 掌握技能
 
-- HTML
-- Javascript
-- TypeScript
-- CSS、SAS、SCSS
-- Vue 3
-- Vuetify UI - 对源码进行解构分析
-- Vite
-- Git、Github
-- Axios
-- Mockjs
-- markdown
-- Material Design
-- Node、NPM
-- Webpack
-- 办公软件
+- 办公软件：Excel、Word、PPT、Markdown
 - 设计软件：Adobe PS、AI、AE、PR
+- 多人在线协作：Git、Github
+- 前端开发：HTML、Js、CSS、Vue、Vuetify UI
 
 ## 学习经历
 
@@ -107,12 +95,9 @@
 
 <p>负责网格管理，税收、备案和日常安全巡查。</p>
 
-**为什么想要加入前端开发？**
+## 结语
 
-<p>  最初计划进入综合保障中心工作是因为事业单位工作较为轻松，可以利用空暇时间掌握一门技术谋生。</p>
-<p>  刚接触前端开发感觉入门非常简单，深入了解才发现前端开发工作涉猎广泛。从 HTML、Javascript、CSS 到 HTTP、axios、服务器请求。各种 UI 库、工具库、多媒体处理、Vue、PRD、兼容性、部署和故障排除，最后花了六年时间学习才敢找第一份实习的工作。</p>
-<p>  希望能有机会加入你们，让我在技术的世界中奉献一份属于自己的创造。</p>
-
+**期望有机会加入贵公司，并肩破浪，铸造未来。**
 
 
 
